@@ -7,6 +7,6 @@ Here's how Xcode's editor look with this theme:
 
 Theme panel: 
 
-<img src="xcode-theme-panel" />
+<img src="xcode-theme-panel.png" />
 
 
